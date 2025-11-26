@@ -19,11 +19,13 @@
 <br>
 
 </div>
+I am a simulation software engineer at Atomic Industries, leveraging physics simulators to inform AI within the
+field of software-accelerated manufacturing. 
 
-I'm a software engineer at SpaceX, currently exploring how to best unlock our
+Previously I was a software and propulsion engineer at SpaceX, and explored how to best unlock our
 potential as a multiplanetary species through simulation of fluids and thermodynamics
-inside rocket propulsion systems. Most of my work involves building analysis software
-that helps solve real-world engineering problems, enabling the safe and repeated flight
+inside rocket propulsion systems. Most of my work involved building analysis software
+to help solve real-world engineering problems, enabling the safe and repeated flight
 of the next generation of reusable rockets to space.
 
 ## :books: Skills
